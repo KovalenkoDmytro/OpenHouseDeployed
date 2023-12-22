@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OpenHouseDeployed/static/css/main.6380a88d.css",
+    "main.js": "/OpenHouseDeployed/static/js/main.ba8ec9d5.js",
+    "static/js/169.0eec64eb.chunk.js": "/OpenHouseDeployed/static/js/169.0eec64eb.chunk.js",
+    "static/js/943.a651fd62.chunk.js": "/OpenHouseDeployed/static/js/943.a651fd62.chunk.js",
+    "static/js/622.db9421c5.chunk.js": "/OpenHouseDeployed/static/js/622.db9421c5.chunk.js",
+    "static/js/830.dae9074e.chunk.js": "/OpenHouseDeployed/static/js/830.dae9074e.chunk.js",
+    "static/media/background_hotel.webp": "/OpenHouseDeployed/static/media/background_hotel.d6397201f9b1c81a3afa.webp",
+    "index.html": "/OpenHouseDeployed/index.html",
+    "static/media/loader.svg": "/OpenHouseDeployed/static/media/loader.405008015756d2a64e4c.svg",
+    "main.6380a88d.css.map": "/OpenHouseDeployed/static/css/main.6380a88d.css.map",
+    "main.ba8ec9d5.js.map": "/OpenHouseDeployed/static/js/main.ba8ec9d5.js.map",
+    "169.0eec64eb.chunk.js.map": "/OpenHouseDeployed/static/js/169.0eec64eb.chunk.js.map",
+    "943.a651fd62.chunk.js.map": "/OpenHouseDeployed/static/js/943.a651fd62.chunk.js.map",
+    "622.db9421c5.chunk.js.map": "/OpenHouseDeployed/static/js/622.db9421c5.chunk.js.map",
+    "830.dae9074e.chunk.js.map": "/OpenHouseDeployed/static/js/830.dae9074e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6380a88d.css",
+    "static/js/main.ba8ec9d5.js"
+  ]
+}

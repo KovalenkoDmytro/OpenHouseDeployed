@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkopenhouse=self.webpackChunkopenhouse||[]).push([[622],{622:(e,s,n)=>{n.r(s),n.d(s,{default:()=>t});var u=n(689),o=n(831),h=n(184);function t(){const{id:e}=(0,u.UO)();return(0,h.jsxs)(o.Z,{pageTitle:"Home",children:["home ",e]})}}}]);
+//# sourceMappingURL=622.db9421c5.chunk.js.map
